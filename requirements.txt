@@ -1,2 +1,2 @@
 ##jrequirements.txt
-install snowflake-connector-python
+snowflake-connector-python
